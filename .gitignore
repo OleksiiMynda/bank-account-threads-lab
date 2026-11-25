@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Секрети та локальні налаштування
+.env
+*.env
+.claude/
+
+# IDE / ОС
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

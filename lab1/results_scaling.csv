@@ -1,0 +1,11 @@
+﻿vary;value;unsafe_wrong_runs;unsafe_mean_abs_error;unsafe_negative_events;unsafe_log_breaks;safe_wrong_runs;safe_mean_abs_error;safe_negative_events
+threads;1;0;0;0;0;0;0;0
+threads;2;5;1665.6;16.8;774.2;0;0;0
+threads;4;5;3118.2;29.6;1638.8;0;0;0
+threads;8;5;12422;128.4;2325;0;0;0
+threads;16;5;60616.4;828.2;4373.2;0;0;0
+threads;32;5;188491.2;2745.6;8595;0;0;0
+ops;50;5;612.4;0;126.4;0;0;0
+ops;200;5;2379.4;23;465.8;0;0;0
+ops;1000;5;11316.8;94;2350.8;0;0;0
+ops;5000;5;19659;233.8;11631;0;0;0
